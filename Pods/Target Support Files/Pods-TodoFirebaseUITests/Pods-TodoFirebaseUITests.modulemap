@@ -1,6 +1,0 @@
-framework module Pods_TodoFirebaseUITests {
-  umbrella header "Pods-TodoFirebaseUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
